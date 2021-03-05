@@ -3,8 +3,8 @@
 void main()
 {
  clrscr();
- int x=5, y=7, z;
- z=x+y;
+ int a=10, b=5, c;
+ c=a+b;
  printf("sum=%d",z);
  getch();
 }
