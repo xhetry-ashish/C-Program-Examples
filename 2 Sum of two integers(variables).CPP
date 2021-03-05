@@ -1,11 +1,11 @@
 #include<stdio.h>
 #include<conio.h>
-int main()
+void main()
 {
-	int x,y,a;
+	int x,y,z;
 	printf("\n Input two numbers=");
 	scanf("%d%d",&x,&y);
-	a=x+y;
-	printf("\n Sum=%d",a);
+	z=x+y;
+	printf("\n Sum=%d",z);
 	getch();
 }
